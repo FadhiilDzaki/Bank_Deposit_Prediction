@@ -107,4 +107,4 @@ Feel free to explore the repository and reach out if you have any questions or s
 ### Author
 
 - **Name**: [Fadhiil Dzaki Mulyana](www.linkedin.com/in/fadhiildzaki)
-- **GitHub**: [FadhiilDzaki]([https://github.com/your-github-username](https://github.com/FadhiilDzaki))
+- **GitHub**: [FadhiilDzaki](https://github.com/FadhiilDzaki)
